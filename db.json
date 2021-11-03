@@ -2,10 +2,28 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "nombre": "Mar y Tierra",
+      "ingredientes": "Arroz, Alga, Camarón, Res, Philadelphia, Surimi, Pepino"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    {
+      "id": 2,
+      "nombre": "Cielo, Mar y Tierra",
+      "ingredientes": "Arroz, Alga, Camarón, Res, Pollo, Philadelphia, Surimi, Pepino"
+    }
+{
+      "id": 3,
+      "nombre": "Tres Quesos",
+      "ingredientes": "Arroz, Alga, Camarón, Res, Queso Americano, Queso Manchego, Queso Chihuahua, Philadelphia, Surimi, Pepino"
+    }
+{
+      "id": 4,
+      "nombre": "Guamuchilito",
+      "ingredientes": "Arroz, Alga, Camarón, Res, Aguacate, Philadelphia, Surimi, Pepino"
+    }
+{
+      "id": 5,
+      "nombre": "Random",
+      "ingredientes": "Arroz, Alga, Camarón, Res, Philadelphia, Surimi, Salsa, Pepino"
+}
+  ]
 }
