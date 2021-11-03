@@ -1,29 +1,29 @@
 {
-  "Sushis": [
-    {
-      "id": 1,
-      "nombre": "Mar y Tierra",
-      "ingredientes": "Arroz, Alga, Camarón, Res, Philadelphia, Surimi, Pepino"
-    },
-    {
-      "id": 2,
-      "nombre": "Cielo, Mar y Tierra",
-      "ingredientes": "Arroz, Alga, Camarón, Res, Pollo, Philadelphia, Surimi, Pepino"
-    },
-    {
-      "id": 3,
-      "nombre": "Tres Quesos",
-      "ingredientes": "Arroz, Alga, Camarón, Res, Queso Americano, Queso Manchego, Queso Chihuahua, Philadelphia, Surimi, Pepino"
-    },
-    {
-      "id": 4,
-      "nombre": "Guamuchilito",
-      "ingredientes": "Arroz, Alga, Camarón, Res, Aguacate, Philadelphia, Surimi, Pepino"
-    },
-    { 
-      "id": 5,
-      "nombre": "Random",
-      "ingredientes": "Arroz, Alga, Camarón, Res, Philadelphia, Surimi, Salsa, Pepino"
-}
-  ]
+    "sushis": [
+        {
+            "id": 1,
+            "nombre": "Mar y Tierra",
+            "ingredientes": "Arroz, Alga, Camarón, Res, Philadelphia, Surimi, Pepino"
+        },
+        {
+            "id": 2,
+            "nombre": "Cielo, Mar y Tierra",
+            "ingredientes": "Arroz, Alga, Camarón, Res, Pollo, Philadelphia, Surimi, Pepino"
+        },
+        {
+            "id": 3,
+            "nombre": "Tres Quesos",
+            "ingredientes": "Arroz, Alga, Camarón, Res, Queso Americano, Queso Manchego, Queso Chihuahua, Philadelphia, Surimi, Pepino"
+        },
+        {
+            "id": 4,
+            "nombre": "Guamuchilito",
+            "ingredientes": "Arroz, Alga, Camarón, Res, Aguacate, Philadelphia, Surimi, Pepino"
+        },
+        {
+            "id": 5,
+            "nombre": "Random",
+            "ingredientes": "Arroz, Alga, Camarón, Res, Philadelphia, Surimi, Salsa, Pepino"
+        }
+    ]
 }
